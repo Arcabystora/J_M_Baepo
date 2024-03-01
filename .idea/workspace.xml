@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="564414b1-3150-4499-964a-162e1b210395" name="변경" comment="민서바보">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JraumKiosk/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/JraumKiosk/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="564414b1-3150-4499-964a-162e1b210395" name="변경" comment="민서바보" />
     <list id="863ad7fc-a5bb-499b-a176-2f779590b099" name="Administrator 님이 변경한 내용" comment="" />
     <list id="4bb35678-66b8-44ca-b864-b634e030aba1" name="Changes by Administrator" comment="" />
     <list id="e48355b9-ba5c-42b4-83c7-dbc21e02072d" name="LG 님이 변경한 내용" comment="" />
@@ -193,7 +190,7 @@
       <workItem from="1708748660515" duration="1374000" />
       <workItem from="1708750047603" duration="20847000" />
       <workItem from="1709301966897" duration="5162000" />
-      <workItem from="1709310083608" duration="559000" />
+      <workItem from="1709310083608" duration="973000" />
     </task>
     <task id="LOCAL-00001" summary="민서바보">
       <option name="closed" value="true" />
