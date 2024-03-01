@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="564414b1-3150-4499-964a-162e1b210395" name="변경" comment="민서바보">
-      <change beforePath="$PROJECT_DIR$/.idea/J-raum_(django).iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/J-raum_(django).iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/37bc80ec-7416-4e4a-bf2a-d83ed9aabe81.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/37bc80ec-7416-4e4a-bf2a-d83ed9aabe81.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b763209b-097a-40ac-b186-912c01692b4b.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b763209b-097a-40ac-b186-912c01692b4b.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JraumKiosk/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/JraumKiosk/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JraumKiosk/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/JraumKiosk/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/main/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/main/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/main/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/main/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/manager/manager.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/manager/manager.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/point/point.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/point/point.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/point/point.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/point/point.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/main/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/main/manager.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/manager.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
-    <list id="863ad7fc-a5bb-499b-a176-2f779590b099" name="Administrator 님이 변경한 내용" comment="">
-      <change beforePath="$PROJECT_DIR$/static/main/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/main/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/main/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/main.html" afterDir="false" />
-    </list>
+    <list id="863ad7fc-a5bb-499b-a176-2f779590b099" name="Administrator 님이 변경한 내용" comment="" />
     <list id="4bb35678-66b8-44ca-b864-b634e030aba1" name="Changes by Administrator" comment="" />
     <list id="e48355b9-ba5c-42b4-83c7-dbc21e02072d" name="LG 님이 변경한 내용" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,47 +42,8 @@
       </UrlAndAccount>
     </option>
   </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/templates/main/main.html">
-      <ranges>
-        <range start1="29" end1="31" start2="29" end2="31" changelist="564414b1-3150-4499-964a-162e1b210395" />
-        <range start1="34" end1="36" start2="34" end2="36" changelist="564414b1-3150-4499-964a-162e1b210395" />
-        <range start1="79" end1="79" start2="79" end2="80" changelist="863ad7fc-a5bb-499b-a176-2f779590b099" />
-        <range start1="165" end1="165" start2="166" end2="167" changelist="564414b1-3150-4499-964a-162e1b210395" />
-        <range start1="401" end1="402" start2="403" end2="404" changelist="564414b1-3150-4499-964a-162e1b210395" />
-        <range start1="403" end1="404" start2="405" end2="405" changelist="564414b1-3150-4499-964a-162e1b210395" />
-        <range start1="405" end1="409" start2="406" end2="409" changelist="564414b1-3150-4499-964a-162e1b210395" />
-        <range start1="410" end1="410" start2="410" end2="411" changelist="564414b1-3150-4499-964a-162e1b210395" />
-        <range start1="443" end1="444" start2="444" end2="445" changelist="564414b1-3150-4499-964a-162e1b210395" />
-      </ranges>
-    </file>
-    <file path="$PROJECT_DIR$/static/main/main.css">
-      <ranges>
-        <range start1="37" end1="37" start2="37" end2="38" changelist="564414b1-3150-4499-964a-162e1b210395" />
-        <range start1="41" end1="41" start2="42" end2="43" changelist="564414b1-3150-4499-964a-162e1b210395" />
-        <range start1="116" end1="117" start2="118" end2="119" changelist="863ad7fc-a5bb-499b-a176-2f779590b099" />
-        <range start1="126" end1="127" start2="128" end2="129" changelist="863ad7fc-a5bb-499b-a176-2f779590b099" />
-        <range start1="158" end1="159" start2="160" end2="161" changelist="863ad7fc-a5bb-499b-a176-2f779590b099" />
-        <range start1="182" end1="183" start2="184" end2="185" changelist="863ad7fc-a5bb-499b-a176-2f779590b099" />
-        <range start1="189" end1="189" start2="191" end2="192" changelist="564414b1-3150-4499-964a-162e1b210395" />
-        <range start1="207" end1="209" start2="210" end2="211" changelist="863ad7fc-a5bb-499b-a176-2f779590b099" />
-        <range start1="212" end1="214" start2="214" end2="216" changelist="863ad7fc-a5bb-499b-a176-2f779590b099" />
-        <range start1="218" end1="219" start2="220" end2="222" changelist="863ad7fc-a5bb-499b-a176-2f779590b099" />
-        <range start1="222" end1="222" start2="225" end2="226" changelist="863ad7fc-a5bb-499b-a176-2f779590b099" />
-        <range start1="248" end1="250" start2="252" end2="254" changelist="863ad7fc-a5bb-499b-a176-2f779590b099" />
-        <range start1="258" end1="258" start2="262" end2="265" changelist="863ad7fc-a5bb-499b-a176-2f779590b099" />
-        <range start1="274" end1="275" start2="281" end2="282" changelist="863ad7fc-a5bb-499b-a176-2f779590b099" />
-        <range start1="276" end1="276" start2="283" end2="284" changelist="863ad7fc-a5bb-499b-a176-2f779590b099" />
-        <range start1="314" end1="314" start2="322" end2="323" changelist="863ad7fc-a5bb-499b-a176-2f779590b099" />
-        <range start1="522" end1="522" start2="531" end2="532" changelist="564414b1-3150-4499-964a-162e1b210395" />
-        <range start1="1029" end1="1029" start2="1039" end2="1040" changelist="564414b1-3150-4499-964a-162e1b210395" />
-        <range start1="2029" end1="2029" start2="2040" end2="2041" changelist="564414b1-3150-4499-964a-162e1b210395" />
-        <range start1="2743" end1="2744" start2="2755" end2="2756" changelist="564414b1-3150-4499-964a-162e1b210395" />
-        <range start1="2749" end1="2750" start2="2761" end2="2762" changelist="564414b1-3150-4499-964a-162e1b210395" />
-        <range start1="2755" end1="2756" start2="2767" end2="2769" changelist="564414b1-3150-4499-964a-162e1b210395" />
-        <range start1="2760" end1="2760" start2="2773" end2="2805" changelist="564414b1-3150-4499-964a-162e1b210395" />
-      </ranges>
-    </file>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MigrationScriptOptions">
     <option name="ignoreImplicitObjects" value="true" />
@@ -123,28 +63,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.0016_clientnumberdata.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0017_alter_clientnumberdata_age_and_more.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;database.data.extractors.current.export.id&quot;: &quot;Excel(xlsx)&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PythonContentEntriesConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.0016_clientnumberdata.executor": "Run",
+    "Python.0017_alter_clientnumberdata_age_and_more.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "database.data.extractors.current.export.id": "Excel(xlsx)",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/LG/Documents/devopsBlabla/J-raum",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gram\PycharmProjects\J-raum_(django)\static\order_data" />
@@ -156,7 +98,6 @@
   <component name="RunManager" selected="Python.0017_alter_clientnumberdata_age_and_more">
     <configuration name="0016_clientnumberdata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="J-raum_(django)" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -179,7 +120,6 @@
     </configuration>
     <configuration name="0017_alter_clientnumberdata_age_and_more" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="J-raum_(django)" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -251,6 +191,7 @@
       <workItem from="1708430284051" duration="87112000" />
       <workItem from="1708748660515" duration="1374000" />
       <workItem from="1708750047603" duration="20847000" />
+      <workItem from="1709301966897" duration="2621000" />
     </task>
     <task id="LOCAL-00001" summary="민서바보">
       <option name="closed" value="true" />

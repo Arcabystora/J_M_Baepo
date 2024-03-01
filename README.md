@@ -17,6 +17,7 @@ python -m venv venv
 
 # 필요 package 설치
 pip install django
+pip install djangorestframework
 
 # migrate 명령어로 DB 생성
 python manage.py makemigrations
